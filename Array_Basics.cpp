@@ -18,3 +18,25 @@ int main() {
         cout << x[i] << " ";
     }
 }
+
+/*
+**Output**
+Enter the number of elements in the array: 6
+Enter a set of  integers:
+23
+45
+67
+89
+12
+34
+The array elements are:
+23 45 67 89 12 34
+*/
+
+
+
+
+
+   - Print whether the string is a palindrome or not based on the comparison.
+
+
