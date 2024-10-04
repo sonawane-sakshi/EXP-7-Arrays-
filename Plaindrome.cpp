@@ -18,4 +18,11 @@ else{
     cout<<"It is not a palindrome";
 }
 }
+/*
+**Output**
+Enter a string:
+sakshi
+It is not a palindrome
+*/
+
 
