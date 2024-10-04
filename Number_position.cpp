@@ -15,3 +15,8 @@ int main() {
         cout << "Element is not found in the array" << endl;
     }
 }
+/*
+    **Output**
+Element is found at position 4
+*/
+    
