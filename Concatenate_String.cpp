@@ -10,3 +10,11 @@ int main(){
     cin>>b;
     cout<<"Concatenated String is: "<<a+b<<endl;
 }
+/*
+**output**
+Enter first sring:
+pune
+Enter second sring:
+city
+Concatenated String is: punecity
+ */
