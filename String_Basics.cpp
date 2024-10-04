@@ -11,4 +11,10 @@ int main(){
     cout<<str3<<endl;
     cout<<str4<<endl;
 }
-
+/*
+**Output**
+C++
+C ++
+C++
+C++
+*/
